@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Agustín Wagner</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- I’m currently learning **Graphs, MongoDB, ReactNative**.
+- Since the middle of this year, I started the Web Development way, learning from FreeCodeCamp, The Odin Project and official documentation.
+
+- I studied at [HENRY's Bootcamp](https://www.soyhenry.com/)
 
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
 
-- How to reach me:  **aguswagner008@gmail.com**
+- I’m currently learning **Graphs, MongoDB, ReactNative**.
+
+- contactMe = () =>  **aguswagner008@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
