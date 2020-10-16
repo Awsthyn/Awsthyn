@@ -9,7 +9,7 @@
 
 - I’m currently learning **Graphs, MongoDB, ReactNative**.
 
-- contactMe = () =>  **aguswagner008@gmail.com**
+- contactMe = ( ) =>  **aguswagner008@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
