@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Agustín Wagner</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- I’m currently learning **Graphs, MongoDB, ReactNative**
+- I’m currently learning **Graphs, MongoDB, ReactNative**.
 
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
 
-- How to reach me **aguswagner008@gmail.com**
+- How to reach me:  **aguswagner008@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
