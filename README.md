@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
 
-- I’m currently learning **Graphs, MongoDB, ReactNative**.
+- I’m currently learning **Graphs (Data structure theory), MongoDB, ReactNative**.
 
 - contactMe = ( ) =>  **aguswagner008@gmail.com**
 
