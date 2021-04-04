@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Agustín Wagner</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 <h5 align="center">Also an Agricultural Engineer</h5>
+
+
 - I studied at [FreeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/) and [HENRY's Bootcamp](https://www.soyhenry.com/)
 - Currently, I'm studying Bioinformatics (postgraduate Degree)
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
