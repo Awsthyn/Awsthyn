@@ -5,11 +5,6 @@
 
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/agustín-wagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agustín-wagner" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <ul>
   <li>Javascript & Typescript</li>
@@ -24,6 +19,11 @@
   <li>Matplotlib & Seaborn</li>
 </ul>
 
+- contactMe = ( ) =>  **aguswagner008@gmail.com**
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/agustín-wagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agustín-wagner" height="30" width="40" /></a>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsthyn&show_icons=true" alt="awsthyn" /></p>
 
-- contactMe = ( ) =>  **aguswagner008@gmail.com**
