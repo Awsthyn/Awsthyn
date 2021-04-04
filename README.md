@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Agustín Wagner</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- I studied at [HENRY's Bootcamp](https://www.soyhenry.com/)
+- I studied at [FreeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/) and [HENRY's Bootcamp](https://www.soyhenry.com/)
 
 - All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
-
-- contactMe = ( ) =>  **aguswagner008@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -27,3 +25,5 @@
 </ul>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsthyn&show_icons=true" alt="awsthyn" /></p>
+
+- contactMe = ( ) =>  **aguswagner008@gmail.com**
