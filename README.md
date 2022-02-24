@@ -5,8 +5,6 @@
 
 - I studied at [FreeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/) and [HENRY's Bootcamp](https://www.soyhenry.com/)
 - Currently, I'm studying Bioinformatics (postgraduate Degree)
-- All of my projects are available at [https://awsthyn.github.io/portfolio/](https://awsthyn.github.io/portfolio/)
-- contactMe = ( ) =>  **aguswagner008@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
