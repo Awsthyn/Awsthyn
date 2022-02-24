@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Agustín Wagner</h1>
-<h3 align="center">A fullstack developer from Argentina</h3>
+<h1 align="center">Hi, I'm Awsthyn</h1>
+<h3 align="center">A fullstack developer</h3>
 <h5 align="center">Also an Agricultural Engineer</h5>
 
 
