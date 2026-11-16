@@ -1,30 +1,39 @@
-<h1 align="center">Hi, I'm Agustín</h1>
-<h3 align="center">A fullstack developer</h3>
-<h5 align="center">Also an Agricultural Engineer</h5>
+# Hola, soy Agustín Wagner
 
+**Ingeniero Agrónomo · Especialista en Bioinformática · Automatización, datos e IA aplicada**
 
-- I studied at [FreeCodeCamp](https://freecodecamp.org/), [The Odin Project](https://www.theodinproject.com/) and [HENRY's Bootcamp](https://www.soyhenry.com/)
-- Currently, I'm studying Bioinformatics (postgraduate Degree)
+Rosario, Santa Fe, Argentina
 
+Hace 6 años desarrollo software en producción. Me dedico a encontrar tareas manuales, repetitivas o sin trazabilidad y convertirlas en herramientas simples que la gente usa todos los días.
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>Javascript & Typescript</li>
-  <li>React JS - React Native</li>
-  <li>Redux</li>
-  <li>HTML & CSS</li>
-  <li>Node - Express</li>
-  <li>PostgreSQL - Sequelize</li>
-  <li>Git & Github</li>
-  <li>Python</li>
-  <li>Pandas</li>
-  <li>Matplotlib & Seaborn</li>
-</ul>
+## Qué hice
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/agustín-wagner" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="agustín-wagner" height="30" width="40" /></a>
-</p>
+- **IA aplicada en la calle:** integré reconocimiento de patentes, marca y modelo en la app que usan 50 inspectores municipales. Cada control pasó de 3 capturas de cámara a 1.
+- **Tableros para decidir:** desarrollé paneles de gestión de flotas con métricas, mapas de viajes y reportes exportables a Excel.
+- **Automatización administrativa:** digitalicé la venta y el control de rifas de un club, con un 90% menos de tiempo de gestión.
+- **Datos en el campo:** construí una app para registrar datos de feedlot sin conexión a internet.
+- **Pipelines de datos:** automaticé el análisis de 41 genomas bacterianos para mi tesis de posgrado ([ver repo](https://github.com/Awsthyn/bioinformatica-tesis)).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsthyn&show_icons=true" alt="awsthyn" /></p>
+## Proyectos destacados
+
+| Proyecto | Qué muestra |
+| --- | --- |
+| [bioinformatica-tesis](https://github.com/Awsthyn/bioinformatica-tesis) | Pipeline de datos en Python y R: descarga masiva, control de calidad, comparación de todos contra todos, clustering y visualización. |
+| [bowery-demo](https://github.com/Awsthyn/bowery-demo) | App que no pierde datos aunque se corte la conexión o se cierre: guardado continuo, reintentos y envío sin duplicados. Con tests y CI. |
+
+## Herramientas
+
+- **IA y automatización:** agentes de IA, IA on-device (OCR), Claude Code, MCP, Power Automate
+- **Datos y BI:** Power BI, SQL (PostgreSQL, MySQL), Python (pandas, seaborn), R, QGIS
+- **Desarrollo:** TypeScript, React, Next.js, React Native, Node.js, APIs REST
+- **Ecosistema Microsoft:** SharePoint, Power BI, Power Automate
+
+## Formación
+
+- Especialización en Bioinformática (posgrado) — Universidad Nacional de Rosario, 2021–2022
+- Ingeniería Agronómica — Universidad Nacional de Rosario, 2012–2018
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/agustin-wagner/) · aguswagner008@gmail.com
 
